@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Score Counter</string>
+    <string name="main_tv1">Select Game</string>
+    <string name="main_b1">Football</string>
+    <string name="main_b2">Vollyball</string>
+    <string name="fb_b1">"Team A\nScores"</string>
+    <string name="fb_b2">"Team B\nScores"</string>
+    <string name="fb_b3">"Back"</string>
+    <string name="fb_tv1">"0"</string>
+    <string name="fb_tv2">"0"</string>
+    <string name="fb_tv3">"Match Begins !!!"</string>
+
+</resources>
